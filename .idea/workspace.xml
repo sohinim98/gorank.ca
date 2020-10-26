@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88a87722-4f14-4c96-9482-89425ed2b34e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/googlebab4c16e876f5fcf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/FadeInSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Hamburger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Hamburger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/JobCarousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/JobCarousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Main.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/bali.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/brick-ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/cesc-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/cover-thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/durga-puja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/good-will-hunting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/image-compression.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/lamartiniere.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/nuffsaid-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/oanda-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/quarantine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/react.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/sibros-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/spam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/spc-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/spoken-word.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/uwaterloo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/website-cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/vars.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jP0pDuReUfecRW0w1nufT8lgIU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88a87722-4f14-4c96-9482-89425ed2b34e" name="Default Changelist" comment="" />
+      <created>1603690601022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603690601022</updated>
+      <workItem from="1603690602446" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
