@@ -28,9 +28,9 @@ const Main = () => {
         <Hamburger />
 
         <section className="about" id="about">
-          <img src={coverThumbnail} alt="sohini's thumbnail" className="about--thumbnail"/>
+          <img src={coverThumbnail} alt="gorank's thumbnail" className="about--thumbnail"/>
           <div className="about--textbox">
-            <h1 className="heading">Hey, I'm Sohini.</h1>
+            <h1 className="heading">Hello, I'm Gorank.</h1>
             <p>
               I like Math, Physics, building new things, and performance poetry.
             </p>
