@@ -1,54 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="88a87722-4f14-4c96-9482-89425ed2b34e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/googlebab4c16e876f5fcf.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/FadeInSection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Hamburger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Hamburger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/JobCarousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/JobCarousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/Main.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/bali.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/brick-ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/cesc-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/code.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/cover-thumbnail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/durga-puja.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/good-will-hunting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/image-compression.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/lamartiniere.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/nuffsaid-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/oanda-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/quarantine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/react.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/right-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/sibros-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/spam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/spc-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/spoken-word.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/uwaterloo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/assets/website-cover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sohinimukherjee/src/vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.idea/gorank.ca.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.idea/gorank.ca.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/FadeInSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/FadeInSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/Hamburger.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/Hamburger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/Hamburger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/Hamburger.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/JobCarousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/JobCarousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/JobCarousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/JobCarousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/Main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/Main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/Main.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/Main.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/bali.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/bali.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/brick-ball.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/brick-ball.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/cesc-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/cesc-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/code.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/cover-thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/cover-thumbnail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/dewan.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/dewan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/durga-puja.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/durga-puja.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/good-will-hunting.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/good-will-hunting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/image-compression.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/image-compression.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/lamartiniere.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/lamartiniere.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/nuffsaid-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/nuffsaid-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/oanda-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/oanda-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/quarantine.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/quarantine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/react.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/right-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/right-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/sibros-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/sibros-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/spam.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/spam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/spc-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/spc-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/spoken-word.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/spoken-word.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/uwaterloo.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/uwaterloo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/assets/website-cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/assets/website-cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorank.ca/src/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/gorank/src/vars.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +108,29 @@
       <option name="presentableId" value="Default" />
       <updated>1603690601022</updated>
       <workItem from="1603690602446" duration="30000" />
+      <workItem from="1603694470054" duration="8000" />
+      <workItem from="1603694511440" duration="140000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="315" width="598" height="490" key="find.popup" timestamp="1603694634582">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="597" y="315" width="598" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1603694634582" />
   </component>
 </project>
